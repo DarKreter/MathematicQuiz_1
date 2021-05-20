@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1506542595 source:c:\users\daniel\desktop\quiz_dzial_1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+
+1506971817 source:d:\daniel\c++\matematyka\quiz_dzial_1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+	<time.h>
+
+1507050750 source:d:\daniel\programowanie\matematyka\quiz_dzial_1\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<windows.h>
+	<algorithm>
+	<conio.h>
+	<time.h>
+
